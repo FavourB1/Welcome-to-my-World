@@ -1,7 +1,5 @@
 
-
-# Welcome to my World!
-## Favour Boluwade
+# Favour Boluwade
 
 ![alt text](image.png)
 
