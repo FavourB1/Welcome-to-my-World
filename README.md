@@ -1,4 +1,5 @@
 
+
 # Welcome to my World!
 ## Favour Boluwade
 
@@ -6,7 +7,10 @@
 
 
 [CV](index.md)
-|
-[Teaching] (index.md) 
+
+
+[Teaching](index.md) 
+
+[Projects](index.md) 
 
 Favour
