@@ -1,4 +1,4 @@
-# Favour Boluwade
+# FAVOUR BOLUWADE
 
 <img src="assets/Profile Github.jpg" alt="alt text" width="200" height="300">
 
