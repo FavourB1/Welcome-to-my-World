@@ -1,9 +1,8 @@
 # FAVOUR BOLUWADE
 ## PhD Student - Text & Technology, University of Central Florida
 
-<div class="flex-container">
-  <img src="assets/ProfileGithub.jpg" width="200" height="300" style="margin-right: 20px;" alt="Profile Image"/>
-</div>
+![Profile Image](assets/ProfileGithub.jpg)
 
-### Tip of the Icerberg
-My name 
+### Tip of the Iceberg
+My name
+
