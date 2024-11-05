@@ -5,10 +5,8 @@
 ### Tip of the Iceberg
 
 ### Research Interests
-- Technical Professional Communication
-- Digital Humanities
 - Digital Media
-
+- Writing and Rhetoric
 
 ### My Hobby
 In my free time, I love to take pictures of anything that sparks my curiosity or creates a unique moment. I like using technological tools and test their editing limitation to either alter reality through their editing features or simply, capture that which has true beauty... NATURE ITSELF! Hence, with my little ole' cell phone, I captured these and played with editing its high contrasts.
@@ -20,5 +18,5 @@ In my free time, I love to take pictures of anything that sparks my curiosity or
 
 
 ### Contact
-- Email: an285811@ucf.edu
+- Email: favour.boluwade@ucf.edu
 
