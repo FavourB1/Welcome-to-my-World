@@ -16,19 +16,22 @@ My aim is to create and contribute to advancements in digital media, assessing t
 - Digital Media
 - Writing and Rhetoric
 
-### Outside the Borders of Research
-Curiosity has not "killed my cat", it has made me a better writer, a better singer, songwriter and guitarist, a better everything. Curiosity is what drives learning; we stop wondering, we stop knowing. 
+### Outside the Borders of Research...
 
-I enjoy being around intellectual discussions often; listening or speaking. And, time has no limits with me when music is involved; singing or listening to it - unless I fall asleep. 
+Curiosity has not “killed my cat,” it has made me a better writer, a better singer, songwriter, and guitarist, a better everything. Curiosity is what drives learning; we stop wondering, we stop knowing.
 
-I have enough jokes, scripts, lyrics or adulting plans in my head that can keep me going throughout a day. 
+I enjoy being around intellectual discussions often, listening or speaking. And time has no limits with me when music is involved; singing or listening to it - unless I fall asleep.
 
-Most of the things I know about cars would be because my dad did not forget to tell me what the difference between the front wheel and back wheel drive is, the reasons for oil change that I should not miss and other experiences he remembers to narrate to me after his visits to his mechanic. So, I am pretty bold when I converse with a mechanic, with the lines in my mind that 'I am not the typical girl that will be cheated because I do know something about car parts - yes'. 
-My siblings think I should eat more and better, while my mom believes my decision to eat healthy is profitable. So, I am torn between eating a lot of fruits and vegetables, or eating a lot so I look my age, on days when I care about food. 
+I have enough jokes, scripts, lyrics or adulting plans in my head that can keep me going throughout a day.
+
+Most of the things I know about cars would be because my dad did not forget to tell me what the difference between the front wheel and back wheel drive is, the reasons for oil change that I should not miss and other experiences he remembers to narrate to me after his visits to his mechanic. So, I am bold when I converse with a mechanic, with the lines in my mind that ‘I am not the typical girl that will be cheated because I do know something about car parts - yes.’ 
+My siblings think I should eat more and better, while my mom believes my decision to eat healthily is profitable. So, I am torn between eating a lot of fruits and vegetables, or eating a lot so I look my age, on days when I care about food.
 
 The summary is, I am dedicating my portfolio to my family. They have made life in the United States home, away from home, from just their online presence.
 
-One quote that I hope will be pinned to my byline is: "If you are looking forward and upwards, you will never find out who is looking down on you." 
+One quote that I hope will be on my byline is: “If you are looking forward and upwards, you will never find out who is looking down on you.”
+
+
 
 <div class="flex-container">
 </div>
