@@ -2,7 +2,7 @@
 
 <img src="assets/ProfileGithub.jpg" alt="Profile Image" style="width: 270px; height: 350px;">
 
-### Tip of the Iceberg
+## Tip of the Iceberg
 
 ### Research Interests
 - Digital Media
