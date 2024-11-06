@@ -8,7 +8,7 @@ I am interested in the intersection of digital media, creative writing and how A
 
 Still fresh into research at UCF, I have started examining some digital tools and their impact on users, particularly focusing on emotional and physical responses to online content. 
 
-My aim is to create and contribute to advancements in digital media, assessing the influence of digital media on user experience, and bridigng the gap between technology and human-centered digital experiences, through academic and industry collaborations.
+My aim is to create and contribute to advancements in digital media, assessing the influence of digital media on user experience, and bridging the gap between technology and human-centered digital experiences, through academic and industry collaborations.
 
 --- 
 
