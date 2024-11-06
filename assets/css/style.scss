@@ -6,7 +6,7 @@
 #main-content {
   flex: 1; /* Takes the remaining space */
   padding: 20px;
-  color: black; /* Set text color to black for main content */
+  color: coral; /* Set text color to black for main content */
 }
 
 #sidebar {
@@ -14,7 +14,7 @@
   padding: 20px;
   background-color: #000000; /* Background color for sidebar */
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
-  color: white; /* Set text color to white for sidebar */
+  color: black; /* Set text color to white for sidebar */
 }
 
 .button {
@@ -22,14 +22,14 @@
   padding: 10px;
   margin: 5px 0;
   background-color: #000000; /* Button color */
-  color: white; /* Text color for buttons */
+  color: black; /* Text color for buttons */
   text-align: center;
   text-decoration: none;
   border-radius: 5px;
 }
 
 .button:hover {
-  background-color: #001DFF; /* Darker on hover */
+  background-color: #c5897c; /* Darker on hover */
 }
 
 @media (max-width: 768px) {
