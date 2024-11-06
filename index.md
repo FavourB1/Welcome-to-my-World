@@ -24,12 +24,12 @@ I enjoy being around intellectual discussions often, listening or speaking. And 
 
 I have enough jokes, scripts, lyrics or adulting plans in my head that can keep me going throughout a day.
 
-Most of the things I know about cars would be because my dad did not forget to tell me what the difference between the front wheel and back wheel drive is, the reasons for oil change that I should not miss and other experiences he remembers to narrate to me after his visits to his mechanic. So, I am bold when I converse with a mechanic, with the lines in my mind that ‘I am not the typical girl that will be cheated because I do know something about car parts - yes.’ 
-My siblings think I should eat more and better, while my mom believes my decision to eat healthily is profitable. So, I am torn between eating a lot of fruits and vegetables, or eating a lot so I look my age, on days when I care about food.
+Most of the things I know about cars would be because my dad did not forget to tell me what the difference between the front wheel and back wheel drive is, the reasons for oil change that I should not miss and other experiences he remembers to narrate to me after his visits to his mechanic. So, I am cool when I converse with a mechanic, with lines in my mind that ‘I am not the typical girl that will be cheated, because I do know something about car parts - yes.’ 
+My siblings think I should eat more and better, while my mom believes my decision to eat healthily is profitable. So, I am torn between eating a lot of fruits and vegetables, or eating a lot so I look my age in stature, on days when I care about food.
 
 The summary is, I am dedicating my portfolio to my family. They have made life in the United States home, away from home, from just their online presence.
 
-One quote that I hope will be on my byline is: “If you are looking forward and upwards, you will never find out who is looking down on you.”
+One quote that I hope will be on my byline is: “If you are looking forward and upward, you will never find out who is looking down on you.”
 
 
 
