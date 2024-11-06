@@ -1,4 +1,4 @@
-## PhD Student - Text & Technology, University of Central Florida
+## PhD Student - Texts & Technology, University of Central Florida
 
 <img src="assets/ProfileGithub.jpg" alt="Profile Image" style="width: 320px; height: 400px;">
 
